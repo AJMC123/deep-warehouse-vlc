@@ -33,3 +33,11 @@ python scripts/run_centralagent_ppo.py --env tarware-tiny-3agvs-2pickers-globalo
 ```bash
 python scripts/eval_saved_ppo.py --model logs/ppo_run/ppo_central_final.zip --episodes 50
 ```
+
+---
+
+## 📄 License
+This project is based on the original [Task Assignment Robotic Warehouse](https://github.com/uoe-agents/task-assignment-robotic-warehouse) environment.  
+The original LICENSE (included in this repository) applies.  
+
+Modifications and extensions — such as VLC-based positioning, Centralized PPO training, enhanced heuristic logic, and metrics logging — were developed by **Antonio Carvalho** as part of the Master’s Thesis at **Instituto Superior de Engenharia de Lisboa (ISEL)**.
