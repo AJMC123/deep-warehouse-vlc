@@ -119,7 +119,7 @@ env.close()
 ---
 
 ## 📊 Results
-A short demo video is available in [`docs/demo.mp4`](docs/demo.mp4), showing:  
+A short demo video is available in ![Demo](docs/img/demo.gif), showing:  
 - VLC grid overlay  
 - AGVs navigating under central PPO control  
 - Comparison vs heuristic baseline  
